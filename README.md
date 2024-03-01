@@ -14,3 +14,5 @@ input_folder = "#"
 
 ## Your output for the images (make sure this folder is not in the same path as the input)
 output_folder = "#"
+
+after make the adjusts based on your files directory, just run "py main.py" in your python terminal (could be bash or any terminal that's running python)
